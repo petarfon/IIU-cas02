@@ -1,0 +1,64 @@
+{
+  "studenti": [
+    {
+      "ime": "Marko",
+      "prezime": "Nikolić",
+      "indeks": "2018/0356",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Marko",
+      "prezime": "Petrović",
+      "indeks": "2018/0567",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Milica",
+      "prezime": "Gajić",
+      "indeks": "2018/0801",
+      "smer": "MEN"
+    },
+    {
+      "ime": "Anđela",
+      "prezime": "Radović",
+      "indeks": "2018/0099",
+      "smer": "MEN"
+    },
+    {
+      "ime": "Katarina",
+      "prezime": "Ljujić",
+      "indeks": "2018/0619",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Sara",
+      "prezime": "Filipović",
+      "indeks": "2018/0454",
+      "smer": "MEN"
+    },
+    {
+      "ime": "Filip",
+      "prezime": "Cvetković",
+      "indeks": "2018/0116",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Ivanka",
+      "prezime": "Mijailović",
+      "indeks": "2018/0351",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Anja",
+      "prezime": "Božić",
+      "indeks": "2018/0676",
+      "smer": "ISIT"
+    },
+    {
+      "ime": "Krsta",
+      "prezime": "Banković",
+      "indeks": "2018/0117",
+      "smer": "MEN"
+    }
+  ]
+}
